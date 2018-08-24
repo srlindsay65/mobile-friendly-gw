@@ -1,1 +1,13 @@
 @import url("../fonts/glyphicons-halflings-regular.woff2");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900|Raleway");
+
+/* font-family: 'Lato', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+body {
+  padding: 20px;
+}
+
+.well {
+
+}
